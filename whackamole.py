@@ -188,11 +188,6 @@ def setUpLight():
     return;
 
 
-#def setUpModelTransform():
-#    global modelTrans
-    #Moves the model along coordinate axises
-#    glTranslatef(modelTrans[0], modelTrans[1], modelTrans[2]);
-
 ##########################
 #Begin Callback Functions#
 ##########################
